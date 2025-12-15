@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Algo>
-    <description courant="DEBUT_ALGORITHME" texte="Ecricrire bonjour"/>
+    <description courant="DEBUT_ALGORITHME" texte="Ecricrire bonjour&#xa;Afficher votre nom"/>
     <extension extnom="inactif"/>
     <fonction fctetat="inactif" fctcode=""/>
     <F2 F2etat="inactif" F2lignes="" F2defaut="" F2para=""/>
