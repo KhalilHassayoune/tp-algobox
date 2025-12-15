@@ -11,7 +11,7 @@
         <item code="1#CHAINE#Hassayoune_Khalil" algoitem="Hassayoune_Khalil EST_DU_TYPE CHAINE"/>
     </item>
     <item code="101#debutalgo" algoitem="DEBUT_ALGORITHME">
-        <item code="4#Bonjour ! #0" algoitem="AFFICHER &quot;Bonjour ! &quot;"/>
+        <item code="4#Bonjour ! #0" algoitem="AFFICHER &quot;Salut à toi ! &quot;"/>
         <item code="2#Hassayoune_Khalil#pasliste" algoitem="LIRE Hassayoune_Khalil"/>
         <item code="4#Bienvenue, #0" algoitem="AFFICHER &quot;Bienvenue, &quot;"/>
         <item code="3#Hassayoune_Khalil#0#pasliste" algoitem="AFFICHER Hassayoune_Khalil"/>
