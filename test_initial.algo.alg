@@ -11,8 +11,12 @@
         <item code="1#CHAINE#Hassayoune" algoitem="Hassayoune EST_DU_TYPE CHAINE"/>
     </item>
     <item code="101#debutalgo" algoitem="DEBUT_ALGORITHME">
-        <item code="4#Hello ! #0" algoitem="AFFICHER &quot;Hello ! &quot;"/>
-        <item code="2#Hassayoune#pasliste" algoitem="LIRE Hassayoune"/>
+
+                <item code="2#Hassayoune#pasliste" algoitem="LIRE Hassayoune"/>
+
+        <item code="4#Bonjour ! #0" algoitem="AFFICHER &quot;Salut à toi ! &quot;"/>
+        <item code="2#Hassayoune_Khalil#pasliste" algoitem="LIRE Hassayoune_Khalil"/>
+
         <item code="4#Bienvenue, #0" algoitem="AFFICHER &quot;Bienvenue, &quot;"/>
         <item code="3#Hassayoune#0#pasliste" algoitem="AFFICHER Hassayoune"/>
     </item>
