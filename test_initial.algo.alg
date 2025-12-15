@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Algo>
-    <description courant="AFFICHER Hassayoune" texte="Ecricrire bonjour&#xa;Afficher votre nom"/>
+    <description courant="AFFICHER &quot;Hello ! &quot;" texte="Ecricrire bonjour&#xa;Afficher votre nom"/>
     <extension extnom="inactif"/>
     <fonction fctetat="inactif" fctcode=""/>
     <F2 F2etat="inactif" F2lignes="" F2defaut="" F2para=""/>
@@ -11,7 +11,7 @@
         <item code="1#CHAINE#Hassayoune" algoitem="Hassayoune EST_DU_TYPE CHAINE"/>
     </item>
     <item code="101#debutalgo" algoitem="DEBUT_ALGORITHME">
-        <item code="4#Bonjour ! #0" algoitem="AFFICHER &quot;Bonjour ! &quot;"/>
+        <item code="4#Hello ! #0" algoitem="AFFICHER &quot;Hello ! &quot;"/>
         <item code="2#Hassayoune#pasliste" algoitem="LIRE Hassayoune"/>
         <item code="4#Bienvenue, #0" algoitem="AFFICHER &quot;Bienvenue, &quot;"/>
         <item code="3#Hassayoune#0#pasliste" algoitem="AFFICHER Hassayoune"/>
